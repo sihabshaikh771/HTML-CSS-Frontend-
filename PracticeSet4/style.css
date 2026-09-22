@@ -1,0 +1,49 @@
+nav{
+    background-color:  #0f1111 ;
+    height: 50px;
+    font-size: 20px;
+    background-color: #0f1111;
+    padding: 10px;
+  
+    
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+#logo{
+    color: orange;
+}
+.nav-link{
+    color: white;
+    
+}
+button{
+    background-color:   #f08804 ;
+     border-radius: 20px;
+    
+}
+
+div{
+    height: 100px;
+    color: white;
+    width: 100px;
+    background-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-color:  #f08804 ;
+    border-radius: 20px;
+    opacity: 0.5;
+    
+    padding: 60px;
+    text-align: center;
+    margin: 50px;
+
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+   
+    padding: 10px;
+}

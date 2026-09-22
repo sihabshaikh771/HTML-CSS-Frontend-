@@ -1,0 +1,20 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-top: 20px solid black;
+    border-radius: 50%;
+    background-color: rgba(8, 239, 227, 0.919);
+    animation: my_div;
+    animation-duration: 500ms;
+    animation-timing-function: ease-in;
+    animation-delay: 500ms;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    text-align: center;
+}
+
+@keyframes my_div{
+    from{transform: rotate(0deg)}
+    to{transform: rotate(360deg)}
+}

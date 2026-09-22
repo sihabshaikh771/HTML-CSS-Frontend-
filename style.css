@@ -1,0 +1,58 @@
+h1{
+    font-color: green;
+    color: red;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+*{
+    font-family: monospace;
+}
+
+#box{
+    background-color: blue;
+
+}
+.heading{
+    color: red);
+}
+button{
+    background-color:   #f08804 ;
+     border-radius: 20px;
+    
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    padding: 60px;
+    text-align: center;
+    margin: 50px;
+
+}
+nav{
+    background-color:  #0f1111 ;
+    height: 50px;
+    font-size: 20px;
+    background-color: #0f1111;
+    padding: 10px;
+    margin-right: 200px;
+    
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+#logo{
+    color: orange;
+}
+.nav-link{
+    color: white;
+    
+}

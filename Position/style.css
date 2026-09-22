@@ -1,0 +1,17 @@
+div{
+    position:relative;
+    background-color: rgb(255, 0, 0,5);
+    height: 500px;
+    width: 50px;
+    margin: 20px;
+    top: 20px;
+    left: 200px;
+}
+#div1{
+    left: 20px;
+   
+    top: 20px;
+}
+main{
+    position:absolute
+}
